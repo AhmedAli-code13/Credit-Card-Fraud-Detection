@@ -11,7 +11,7 @@ The only features which have not been transformed with PCA are Time and Amount. 
 Feature Class is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 
 
-## Conclusions
+## What we did ?
 We investigated the data, checking for data unbalancing and solved it using SMOTE.
 
 We started with LogisticRegression, for which we obtained an ROC AUC score of (0.96).
